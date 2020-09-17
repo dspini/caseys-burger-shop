@@ -27,4 +27,3 @@ View the page source!
 <!-- This will include all our BS JS code just before the closing body tag
 <jsp:include page="partials/closing-scripts.jsp"></jsp:include>
 </body>
-</html>
